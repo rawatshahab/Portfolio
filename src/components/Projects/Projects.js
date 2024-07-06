@@ -46,7 +46,7 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
-              isBlog={facial}
+              isBlog={false}
               title="Facial Expression detection"
               description="Web application which access the users web cam to capture the facial expression and predict the emotion like happy,sad,angry etc."
               ghLink="https://github.com/rawatshahab/Facial_Expression"

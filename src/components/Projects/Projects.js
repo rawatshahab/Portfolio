@@ -28,7 +28,7 @@ function Projects() {
               title="Score Predictor"
               description="Developed a Streamlit application for predicting final cricket scores using a pre-trained machine learning model."
               ghLink="https://github.com/rawat-mayank/Score_predictor"
-              demoLink="https://predict-score.streamlit.app/"
+              demoLink="https://huggingface.co/spaces/mayankrawat98/Score_predictor"
             />
           </Col>
 

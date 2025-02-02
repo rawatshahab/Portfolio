@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Collaborative text editor"
               description="Developed a real-time collaborative text editor using Node.js, Express.js, React.js, and Socket.io."
-              ghLink="https://github.com/rawatshahab/Docs_frontend"
-              demoLink="https://docs-frontendd.onrender.com/"
+              ghLink="https://github.com/rawatshahab/client"
+              demoLink="https://collaborative-code-editor-735467f13329.herokuapp.com/"
             />
           </Col>
 

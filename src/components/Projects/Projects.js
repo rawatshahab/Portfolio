@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import cyber from "../../Assets/Projects/Cyber.png";
-
+import student from "../../Assets/Projects/Student.png";
 import editor from "../../Assets/Projects/editor.png";
 import facial from "../../Assets/Projects/Facial.jpeg";
 import myfitness from "../../Assets/Projects/myfitness.png";
@@ -33,7 +33,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={student}
               isBlog={false}
               title="Student Hub"
               description="StudentHub was born from a deep understanding of the challenges that university students face during their academic journey "

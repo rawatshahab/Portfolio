@@ -31,7 +31,16 @@ function Projects() {
               demoLink="https://huggingface.co/spaces/mayankrawat98/Score_predictor"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={editor}
+              isBlog={false}
+              title="Student Hub"
+              description="StudentHub was born from a deep understanding of the challenges that university students face during their academic journey "
+              ghLink="https://github.com/rawatshahab/studenthub.git"
+              demoLink="https://studenthub2002-68547c31acfc.herokuapp.com/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={editor}
